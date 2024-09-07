@@ -1,11 +1,12 @@
+// user.js
 const user = {
-  name: "Liza",
-  city: "New York",
-  bio: "I made this!",
-  color: "firebrick",
+  name: 'John Doe',
+  city: 'New York',
+  color: 'blue',
+  bio: 'Web Developer',
   links: {
-    github: "https://github.com/liza",
-    linkedin: "https://www.linkedin.com/in/liza/",
+    github: 'https://github.com/johndoe',
+    linkedin: 'https://linkedin.com/in/johndoe',
   },
 };
 
